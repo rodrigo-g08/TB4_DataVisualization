@@ -1,7 +1,6 @@
 # TB4 — Data Visualization · Energía Global
 
 **URL del dashboard en producción:** `https://tb4datavisualization-6nntn6wfsqxza8dx3rpjjx.streamlit.app/`  
-*(actualizar antes de las 11:00 p.m. del 19/06/26)*
 
 ---
 
