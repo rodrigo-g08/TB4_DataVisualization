@@ -3,7 +3,7 @@
 **URL del dashboard en producción:** `https://tb4datavisualization-6nntn6wfsqxza8dx3rpjjx.streamlit.app/`  
 
 ## Integrantes
-| Control | Ubicación |
+| Nombres | Código |
 |---------|------------|
 | Jose Cespedes | U202211884  |
 | Jimena Quintana | U20201F576 |
